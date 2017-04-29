@@ -1,2 +1,2 @@
 <?php
-echo "Fuck Yeah!\n"
+echo "Fuck Yeah!\n";
