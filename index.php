@@ -5,7 +5,7 @@
 	$badwords = $censor->setDictionary('en-us');*/
 	
 	//error_reporting(0);
-	define('COLOR', false);
+	/*define('COLOR', false);
 	
 	require('inc/php/core/db.php');
 	require('inc/php/counter.php');
@@ -410,4 +410,4 @@ if (isset($_GET['steamid'])) {
 
 <?php } // }?>
 </body>
-</html>
+</html>*/echo "test";
