@@ -410,4 +410,8 @@ if (isset($_GET['steamid'])) {
 
 <?php } // }?>
 </body>
-</html>*/echo "test";
+</html>*/
+function gecho($var) {
+echo($var);
+}
+gecho("test");
